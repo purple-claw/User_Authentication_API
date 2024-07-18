@@ -87,4 +87,10 @@ The API runs on `http://localhost:8000`. Use tools like POSTMAN to interact with
             "otp" : 123456
         }
         ```
+  ## Images and Working Screenshots
+  ![Screenshot](https://github.com/purple-claw/User_Authentication_API/blob/master/WhatsApp%20Image%202024-07-18%20at%206.56.44%20AM.jpeg)
+  ![Screenshot](https://github.com/purple-claw/User_Authentication_API/blob/master/WhatsApp%20Image%202024-07-18%20at%206.57.02%20AM.jpeg)
+  ![Screenshot](https://github.com/purple-claw/User_Authentication_API/blob/master/WhatsApp%20Image%202024-07-18%20at%206.56.22%20AM.jpeg)
+  ![Screenshot](https://github.com/purple-claw/User_Authentication_API/blob/master/WhatsApp%20Image%202024-07-18%20at%206.57.18%20AM.jpeg)
+
 ---
